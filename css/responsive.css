@@ -1,0 +1,86 @@
+@media only screen and (max-width: 980px) {
+
+
+	.slider_text h2 {
+	margin-top: 98px;
+	font-size: 48px;
+}
+.left-textabout p {
+	margin-top: 22px;
+}
+.about_btn a {
+	padding: 10px 20px;
+}
+.driver_img img {
+	width: 270px;
+}
+
+
+}
+
+
+
+@media only screen and (max-width: 980px) {
+
+
+.apps-image img {
+	width: 217px;
+	margin-left: 74px;
+}
+.slider_text {
+	margin-top: 24px;
+}
+.about_btn a {
+	margin-bottom: 40px;
+}
+
+}
+
+
+@media only screen and (max-width: 980px) {
+
+.slider_text h2 {
+	margin-top: 53px;
+	font-size: 38px;
+	margin-left: 29px;
+}
+.slider_text p {
+	margin-left: 40px;
+}
+.slider-img a img {
+	margin-right: -19px;
+	width: 112px;
+		margin-left: 45px;
+}
+.gap_text h3 {
+	font-size: 27px;
+
+	margin-top: 42px;
+}
+.gap_text a img {
+	margin-bottom: 32px;
+}
+
+
+/* REsponsive code for now. will remove it from here*/
+@media only screen and (width: 320px) {
+
+    .header-nav .menu > li > a img {
+    max-width: 51px !important;
+    padding: 10px !important;
+}
+
+.cssmenu .menu-button {
+    margin-top: -93px;
+    margin-bottom: 31px;
+}
+body .header-nav .menu li a {
+    color: tomato;
+}
+
+}
+
+
+
+
+}
